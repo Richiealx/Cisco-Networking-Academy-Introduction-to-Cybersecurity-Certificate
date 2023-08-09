@@ -13,6 +13,7 @@ The Introduction to Cybersecurity certificate from Cisco is a prestigious creden
 
 
 🔑 Key Areas of Expertise 🔑
+
 ✅ Network Security: I have acquired a deep understanding of network security concepts, including secure network design, firewall configuration, intrusion prevention systems, and virtual private networks (VPNs).
 
 ✅ Cyber Threats: My training has equipped me with the knowledge to identify and mitigate various cyber threats, such as malware, phishing attacks, ransomware, and social engineering.
